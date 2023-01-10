@@ -1,0 +1,45 @@
+name: tazewallpaper
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get:
+  flutter_iconly: ^1.0.2
+  flutter_staggered_grid_view: ^0.4.0
+  flutter_wallpaper_manager: ^0.0.3
+  flutter_cache_manager: ^3.3.0
+  liquid_swipe: ^2.0.0
+  smooth_page_indicator: ^1.0.0+2
+  url_launcher: ^6.1.7
+  cloud_firestore: ^2.1.0
+  shared_preferences: ^2.0.15
+  lottie: ^1.0.0
+  rating_dialog: ^2.0.4
+  # connectivity_plus: ^2.3.1
+  # internet_connection_checker: ^0.0.1+1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/onboardingimage/
+    - asset/logo/wallpaperlogo.png
+    - asset/animations/
+
+  fonts:
+    - family: gilroy-bold
+      fonts:
+        - asset: asset/fonts/Gilroy-Bold.ttf
+ 

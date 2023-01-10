@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509019539523",
+    "project_id": "gulshirin-wallpaper-f9c32",
+    "storage_bucket": "gulshirin-wallpaper-f9c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509019539523:android:f076d98249ca7684ef2cf6",
+        "android_client_info": {
+          "package_name": "com.example.tazewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509019539523-3ah8hke68ce2s0u6fl18c5ntvk2m9a95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3odSb_ZwHQ6GeNk_ZmPOnfvZ4SMaIoHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509019539523-3ah8hke68ce2s0u6fl18c5ntvk2m9a95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
